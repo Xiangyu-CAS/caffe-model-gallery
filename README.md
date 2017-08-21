@@ -59,7 +59,7 @@ This is a repositoy to gather models implemented in caffe. Including classificat
 	
   <4> Deeplab-v2
   
-	Official project: https://bitbucket.org/aquariusjay/deeplab-public-ver2
+	Official project: https://bitbucket.org/aquariusjay/deeplab-public-ver2	 
   	Main contribution: ResNet-101 + ASPP
 	
   <5> Deeplab-v3
@@ -67,4 +67,8 @@ This is a repositoy to gather models implemented in caffe. Including classificat
 4. Human Pose estimation
 
   <1> Hourglass
-  <2> CMU-Pose
+  	
+  <2> CMU-Pose (OpenPose)
+  
+ 	Official project :https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation
+	Main contribution: Bottom-up structure, multi-task learning (keypoints + PAF)

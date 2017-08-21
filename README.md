@@ -5,9 +5,18 @@ This is a repositoy to gather models implemented in caffe. Including classificat
 1. Classification
 
   <1> VGG-16, VGG-19
-  <2> ResNet( ResNet-50, ResNet-101, ResNET-121)
+  	VGG-16: https://gist.github.com/ksimonyan/211839e770f7b538e2d8
+  	VGG-19: https://gist.github.com/ksimonyan/3785162f95cd2d5fee77#file-readme-md
+  
+  <2> ResNet( ResNet-50, ResNet-101, ResNET-151)
+  	Official project: https://github.com/KaimingHe/deep-residual-networks
   <3> MobileNet
+  	Third party project: https://github.com/shicai/MobileNet-Caffe
+	Official project (tensorfow) :https://github.com/tensorflow/models/blob/master/slim/nets/mobilenet_v1.md
   <4> DenseNet
+  	Official project: https://github.com/liuzhuang13/DenseNetCaffe
+  <5> SqueezeNet
+  	official project: https://github.com/DeepScale/SqueezeNet
 
 2. Detection
 
@@ -15,6 +24,8 @@ This is a repositoy to gather models implemented in caffe. Including classificat
 	Official project: 
   <2> R-FCN
 	Official project:
+  <3> SSD
+  	Official project: https://github.com/weiliu89/caffe/tree/ssd
 
 3. Semantic Segmenation
   <1> FCN

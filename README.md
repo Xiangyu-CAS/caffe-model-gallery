@@ -3,21 +3,38 @@
 This is a repositoy to gather models implemented in caffe. Including classification, detection, semantic segmentation and human pose estimation
 
 1. Classification
+
   <1> VGG-16, VGG-19
   <2> ResNet( ResNet-50, ResNet-101, ResNET-121)
   <3> MobileNet
   <4> DenseNet
 
 2. Detection
+
   <1> Faster R-CNN
+	Official project: 
   <2> R-FCN
+	Official project:
 
 3. Semantic Segmenation
   <1> FCN
+	Official project: https://github.com/shelhamer/fcn.berkeleyvision.org
+	Main contribution: fully convolutional network for dense prediction; Encode-Decode structure
+	
   <2> SegNet
+	Official project: https://github.com/alexgkendall/SegNet-Tutorial.git
+	Main contribution: symmetric encode-decode structure
+	
   <3> Deeplab-v1
+	Official project: https://bitbucket.org/deeplab/deeplab-public/
+	Main contribution: dilate convoliton + CRF
+	
   <4> Deeplab-v2
-   
+	Official project: https://bitbucket.org/aquariusjay/deeplab-public-ver2
+  Main contribution: ResNet-101 + ASPP
+	
+	<5> Deeplab-v3
+	
 4. Human Pose estimation
   <1> Hourglass
   <2> CMU-Pose

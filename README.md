@@ -72,3 +72,7 @@ This is a repositoy to gather models implemented in caffe. Including classificat
   
  	Official project :https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation
 	Main contribution: Bottom-up structure, multi-task learning (keypoints + PAF)
+  <3> CPM (Convolutional Pose Machine)
+  
+  	Official project: https://github.com/shihenw/convolutional-pose-machines-release
+	Main contribution: multi-stage refinement

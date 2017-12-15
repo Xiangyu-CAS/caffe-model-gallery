@@ -1,5 +1,3 @@
-https://gradapp.berkeley.edu/refer/?9204403576200708
-
 
 # caffe-model-gallery
 

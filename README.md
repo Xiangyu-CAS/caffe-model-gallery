@@ -1,3 +1,14 @@
+USC
+https://evaluator.liaisoncas.com/evaluator/register?email=qWQkj3G38rbcHFFXvyZWXJDDQV9zURZt
+
+Upenn
+http://www.applyweb.com/lor?token=7nuDBaDpG7mQABX4uNsXLZ7hLf451mFhE1512640879
+http://www.applyweb.com/lor?token=YK2s0qlYXzSEg1XWkA3f4OOcDyU4bDeGj1513146223
+
+Umich
+http://www.applyweb.com/lor?token=luRpQ3SfLPqH0Pes4HVYC49kCVPnge6Pd1512642664 
+
+
 # caffe-model-gallery
 
 This is a repositoy to gather models implemented in caffe. Including classification, detection, semantic segmentation and human pose estimation
